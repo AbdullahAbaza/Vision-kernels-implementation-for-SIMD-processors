@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/black/Downloads/1000 ML/FaceID/OpenCV c++/Vision_Kernel_AVX-2/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\g++.exe -isystem C:/opencv/mingw_build/install/include -mavx2 -g -std=gnu++20 -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\black\\Downloads\\1000 ML\\FaceID\\OpenCV c++\\Vision_Kernel_AVX-2\\main.cpp\"",
+  "file": "C:\\Users\\black\\Downloads\\1000 ML\\FaceID\\OpenCV c++\\Vision_Kernel_AVX-2\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
